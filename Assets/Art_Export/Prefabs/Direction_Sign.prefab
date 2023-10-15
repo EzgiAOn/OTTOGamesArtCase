@@ -145,6 +145,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: DirectionSign
       objectReference: {fileID: 0}
+    - target: {fileID: 6947464325843983966, guid: e0cfc50f285006143bd4b7ffc9199e6c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: e0cfc50f285006143bd4b7ffc9199e6c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
