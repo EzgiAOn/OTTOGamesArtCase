@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: ChangableColour
+    second: {fileID: 2100000, guid: 0f796fb47775b4244b640b6f9a3e3225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material.015
     second: {fileID: 2100000, guid: 17c5f36f25b4eea4fbc2073e03d8fe3f, type: 2}
   materials:
