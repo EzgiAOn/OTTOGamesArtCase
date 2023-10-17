@@ -88,7 +88,7 @@ ParticleSystem:
   startDelay:
     serializedVersion: 2
     minMaxState: 0
-    scalar: 0
+    scalar: 1
     minScalar: 0
     maxCurve:
       serializedVersion: 2
@@ -255,7 +255,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 0, b: 0.11489391, a: 1}
+      maxColor: {r: 0.865584, g: 1, b: 0.56, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -319,7 +319,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.1
+      scalar: 0.2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5076,6 +5076,11 @@ PrefabInstance:
         type: 3}
       propertyPath: lengthInSec
       value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6253709354153943181, guid: e493fa1f1cf280145a8af6a9d729b5d6,
+        type: 3}
+      propertyPath: startDelay.scalar
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6253709354153943181, guid: e493fa1f1cf280145a8af6a9d729b5d6,
         type: 3}

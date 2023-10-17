@@ -46,6 +46,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Poff_Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 4558656373653425370, guid: 63bec032dc775fe459ef261d8880c6dc,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.30300185
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558656373653425370, guid: 63bec032dc775fe459ef261d8880c6dc,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.45547587
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558656373653425370, guid: 63bec032dc775fe459ef261d8880c6dc,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.6132076
+      objectReference: {fileID: 0}
     - target: {fileID: 7694656530479047456, guid: 63bec032dc775fe459ef261d8880c6dc,
         type: 3}
       propertyPath: m_LocalPosition.x
